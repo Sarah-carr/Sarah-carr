@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate former CRM and automation professional turned Le Wagon Data Science student. Interested in the use of data for social and environmental good, and data ethics.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarah-carr" alt="sarah-carr" /></a> </p>
-
 - 🌱 I’m currently learning **data science,machine learning, deep learning, data engineering, data ethics, responsible AI**
 
 - 📫 How to reach me **in/sarah-carr-7aa98655**
